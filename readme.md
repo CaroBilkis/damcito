@@ -1,6 +1,6 @@
 # Damcito
 
-Development of a Wordpress theme for the implementation of a website.
+Development of a Wordpress theme for the implementation of a specific website..
 
 You can view the site at https://taller5.ludic.cc/artimanias/2021/.
 
